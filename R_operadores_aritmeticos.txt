@@ -9,3 +9,4 @@ dividendo <- 1234234234234/3423423424545
 dividendo2 <- 123421342134/135434564564
 potenciando <- 5^2 
 potenciando2 <- 4^4
+  
